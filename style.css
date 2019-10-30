@@ -1,4 +1,7 @@
 h1{
-  color: DodgerBlue;
+  color: white;
   text-align: center;
+  background-color: DodgerBlue;
+  font-family: georgia, serif;
+  padding: 50px;
 }
