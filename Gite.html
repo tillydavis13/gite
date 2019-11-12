@@ -13,10 +13,31 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
   <meta charset="UTF-8">
   <h1>Gîte de Peryroux</h1>
-  <button type="button" class="btn btn-light"><a href="index.html">Home</a></button>
-  <button type="button" class="btn btn-light"><a href="about.html">About</a></button>
-  <button type="button" class="btn btn-light"><a href="Gite.html">Gîtes</a></button>
-  <button type="button" class="btn btn-light"><a href="area.html">The Area</a></button>
-  <button type="button" class="btn btn-light"><a href="contact.html">Contact Us</a></button>
-    <br>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="about.html">About</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="area.html">The Area</a>
+      <li class="nav-item">
+        <a class="nav-link" href="Gite.html">Gîtes</a>
+      <li class="nav-item">
+        <a class="nav-link" href="contact.html">Contact Us</a>
+        </div>
+    </ul>
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>
 </body>

@@ -11,6 +11,20 @@ p{
   font-family: georgia, serif;
   font-size: 20px;
 }
-div.buttons {
-  align-content: center;
+
+.container-carousel {
+  height: 300px;
 }
+
+.gite-photos {
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  #carouselGitephotos {
+    width: 100%
+  }
+
+  
