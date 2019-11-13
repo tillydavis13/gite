@@ -27,4 +27,12 @@ p{
     width: 100%
   }
 
-  
+  form {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+button {
+  margin-left: 40px;
+}
