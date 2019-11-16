@@ -61,3 +61,14 @@ button {
 #gite1t {
   margin-left: 50px;
 }
+ul {list-style-type: none;}
+body {font-family: Verdana, sans-serif;}
+
+
+#headingtwo {
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+  padding: 50px;
+  font-size: 30px;
+  background-color: white;
+  text-align: center;
