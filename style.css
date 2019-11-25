@@ -87,7 +87,7 @@ body {font-family: Verdana, sans-serif;}
 body {
   font-family: Arial;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 100%;
   padding: 20px;
 }
 
@@ -138,3 +138,17 @@ body {
 .bar-3 {width: 0%; height: 18px; background-color: #00bcd4;}
 .bar-2 {width: 0%; height: 18px; background-color: #ff9800;}
 .bar-1 {width: 0%; height: 18px; background-color: #f44336;}
+
+.calender-container{
+  width: 100%;
+}
+
+.calender1{
+  display: inline-block;
+  margin-left: 40%;
+}
+
+.calender2{
+  display: inline-block;
+  margin-left: 40%;
+}
