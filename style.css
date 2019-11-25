@@ -45,8 +45,8 @@ button {
 }
 
 .mapouter {
-  margin-left: 50px;
-  margin-top: 40px;
+  text-align: center;
+  display: inline-block;
 }
 
 .container-gite1p {
@@ -180,4 +180,34 @@ h3{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.todo{
+  text-align: center;
+}
+
+.text1{
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+}
+
+.text2{
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+}
+.text3{
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+}
+.text4{
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+}
+.text5{
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+}
+
+.map{
+  text-align: center;
 }
