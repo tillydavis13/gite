@@ -11,6 +11,11 @@ p{
   text-align: center;
   font-family: georgia, serif;
   font-size: 20px;
+  color: rgb(105, 8, 8);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
 
 .container-carousel {
@@ -151,4 +156,28 @@ body {
 .calender2{
   display: inline-block;
   margin-left: 40%;
+}
+
+h2{
+  margin-left: 50px;
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+  margin-top: 40px;
+}
+
+h3{
+  margin-left: 50px;
+  color: rgb(105, 8, 8);
+  font-family: georgia, serif;
+  margin-top: 40px;
+}
+
+.wine{
+  margin-left: 50px;
+}
+.aboutpic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
