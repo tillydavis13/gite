@@ -156,14 +156,15 @@ body {
 }
 
 h2{
-  margin-left: 50px;
+
+  text-align: center;
   color: rgb(105, 8, 8);
   font-family: georgia, serif;
   margin-top: 40px;
 }
 
 h3{
-  margin-left: 50px;
+  text-align: center;
   color: rgb(105, 8, 8);
   font-family: georgia, serif;
   margin-top: 40px;
@@ -183,23 +184,28 @@ text-align: center;
 .text1{
   color: rgb(105, 8, 8);
   font-family: georgia, serif;
+  text-align: center;
 }
 
 .text2{
   color: rgb(105, 8, 8);
   font-family: georgia, serif;
+  text-align: center;
 }
 .text3{
   color: rgb(105, 8, 8);
   font-family: georgia, serif;
+  text-align: center;
 }
 .text4{
   color: rgb(105, 8, 8);
   font-family: georgia, serif;
+  text-align: center;
 }
 .text5{
   color: rgb(105, 8, 8);
   font-family: georgia, serif;
+  text-align: center;
 }
 
 .map{
@@ -210,6 +216,7 @@ text-align: center;
   height: 100%;
  margin: 0;
  padding: 1em;
+ text-align: center;
 }
 
 iframe{
