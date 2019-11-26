@@ -211,3 +211,8 @@ text-align: center;
  margin: 0;
  padding: 1em;
 }
+
+iframe{
+  text-align: center;
+  width: 70%;
+}
