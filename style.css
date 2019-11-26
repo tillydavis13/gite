@@ -206,4 +206,6 @@ text-align: center;
   text-align: center;
 }
 
-[/code]
+.image_container {
+  width: 70%;
+}
