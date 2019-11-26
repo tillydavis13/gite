@@ -135,7 +135,7 @@ body {
 }
 
 /* Individual bars */
-.bar-5 {width: 0%; height: 18px; background-color: #4CAF50;}
+.bar-5 {width: 10%; height: 18px; background-color: #4CAF50;}
 .bar-4 {width: 0%; height: 18px; background-color: #2196F3;}
 .bar-3 {width: 0%; height: 18px; background-color: #00bcd4;}
 .bar-2 {width: 0%; height: 18px; background-color: #ff9800;}
